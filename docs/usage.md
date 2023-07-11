@@ -1,3 +1,5 @@
+*--> usage.md top
+
 Usage
 =====
 
@@ -32,3 +34,5 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 ```
+
+*--> usage.md bottom
